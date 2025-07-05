@@ -1,4 +1,4 @@
-package com.amigoscode.customer;
+package com.amigoscode.fraud.customer;
 
 import jakarta.persistence.*;
 import lombok.*;
